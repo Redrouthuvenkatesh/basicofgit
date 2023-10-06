@@ -1,0 +1,4 @@
+git.txt
+gitcommands.txt
+names.txt
+output.txt
